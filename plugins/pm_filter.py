@@ -158,7 +158,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>ʜᴇʏ {user} ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧", url=f"https://t.me/Movie7xChat/4")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧", url=f"https://t.me/funnyzilla")]])
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
@@ -213,7 +213,7 @@ async def next_page(bot, query):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
     else:
@@ -226,7 +226,7 @@ async def next_page(bot, query):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
     try:
@@ -485,7 +485,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
     else:
@@ -498,7 +498,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
 
@@ -677,7 +677,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
         
@@ -1366,10 +1366,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("✅ Uᴘʟᴏᴀᴅᴇᴅ ✅", callback_data=f"upalert#{from_user}")
               ]]
         btn2 = [[
-                 InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/+haBJYzvJaOEwY2Q1"),
+                 InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/+Wb5L5VZhaAA3MDhl"),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/movie7xchat")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/funnyzilla")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1391,10 +1391,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🟢 Aʟʀᴇᴀᴅʏ Aᴠᴀɪʟᴀʙʟᴇ 🟢", callback_data=f"alalert#{from_user}")
               ]]
         btn2 = [[
-                 InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/+haBJYzvJaOEwY2Q1"),
+                 InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/+Wb5L5VZhaAA3MDhl"),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/movie7xchat")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/funnyzilla")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -2863,13 +2863,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/Team_Netflix/33")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/movie7xchat"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/team_netflix")
+            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="https://t.me/funnyzilla"),
+            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="https://t.me/+Wb5L5VZhaAA3MDhl")
        ],[
-            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+fAjYIpR5Ju02M2Q1"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+KeFIjHXhzLMyMWZl")
+            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+JzblouKxx-M2NDBl"),
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+F-Gwxff2ITU1ZDk1")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/Anime_Cruise_Netflix")
+            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/+rQJz8FHPEWY2N2Q9")
        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
@@ -3196,7 +3196,7 @@ async def auto_filter(client, msg, spoll=False):
     #         InlineKeyboardButton('❗❗  ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ  ❗❗', url="https://t.me/MoviesDuniya4U")
     #     ])
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/ContentmebkpBot"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
     # if ENABLE_TUTORIAL == True:
