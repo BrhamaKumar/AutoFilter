@@ -53,10 +53,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('• ᴍᴀsᴛᴇʀ •', url="https://t.me/veldxd"),
-                    InlineKeyboardButton('• sᴜᴘᴘᴏʀᴛ •', url='https://t.me/weebs_support')
+                    InlineKeyboardButton('• ᴍᴀsᴛᴇʀ •', url="https://t.me/+F-Gwxff2ITU1ZDk1"),
+                    InlineKeyboardButton('• sᴜᴘᴘᴏʀᴛ •', url='https://t.me/+Wb5L5VZhaAA3MDhl')
                 ],[
-                    InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/codeflix_bots")
+                    InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/+JzblouKxx-M2NDBl")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
