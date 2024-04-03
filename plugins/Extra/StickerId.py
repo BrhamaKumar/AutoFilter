@@ -3,7 +3,9 @@ from os import error
 import logging
 import pyrogram
 import time
-from config import Config
+from info import BOT_TOKEN
+from info import API_ID
+from info import API_HASH
 import math
 from decouple import config
 from pyrogram import Client, filters
