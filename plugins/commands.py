@@ -644,8 +644,8 @@ async def delete(bot, message):
 async def support_command(client, message):
     buttons = [
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/weebs_support"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/codeflix_bots")
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+Wb5L5VZhaAA3MDhl"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/+JzblouKxx-M2NDBl")
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -1209,8 +1209,8 @@ async def showshortlink(bot, message):
 async def donate_command(client, message):
     buttons = [
         [
-            InlineKeyboardButton("• ᴅᴏɴᴀᴛᴇ • ", url="https://t.me/OtakuFlix_Network/4640"),
-            InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/team_netflix")
+            InlineKeyboardButton("• ᴅᴏɴᴀᴛᴇ • ", url="https://t.me/demosaveforce/4"),
+            InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/+Wb5L5VZhaAA3MDhl")
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -1220,7 +1220,7 @@ async def donate_command(client, message):
 async def help_command(client, message):
     buttons = [
         [
-            InlineKeyboardButton("• ᴏᴘᴇɴ ɪɴ ᴘʀɪᴠᴀᴛᴇ •", url="https://t.me/Lucy_Filter_bot?start=help"),
+            InlineKeyboardButton("• ᴏᴘᴇɴ ɪɴ ᴘʀɪᴠᴀᴛᴇ •", url="https://t.me/BKP_Autofilterbot?start=help"),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
