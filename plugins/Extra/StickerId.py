@@ -3,6 +3,7 @@ from os import error
 import logging
 import pyrogram
 import time
+from config import Config
 import math
 from decouple import config
 from pyrogram import Client, filters
@@ -24,7 +25,7 @@ I can Provide all Kind of Sticker Options Here """
 
 JOIN_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/team_netflix')
+        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/demosaveforce')
         ]]
     )
 
