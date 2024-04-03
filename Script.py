@@ -390,7 +390,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇</b> 
 
-<code>/ytthumb https://youtu.be/BqlMwyABHOE</code>"""
+<code>/ytthumb https://youtu.be/BqlMwyAB</code>"""
 
     GITHUB = """<b>ɢɪᴛʜᴜʙ ᴅᴇᴛᴀɪʟs -</b>
 
@@ -398,7 +398,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-❍ /github phoenix-erotixe
+❍ /github Bkp
 ❍ /git : to get github id information
 """
 
@@ -437,7 +437,7 @@ IMDb Data:
 <b>ᴍɪᴋᴇʏ'ꜱ ʙɪᴏ 🙋‍♂
 
 ╰─➩ ᴍʏ ɴᴀᴍᴇ - Nhi Bataunga (real name nhi btaunga)
-╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/ContentmebkpBot'>sᴇᴡxɪʏ</a>
+╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/ContentmebkpBot'>BKP</a>
 ╰─➩ ᴘᴍ. ᴅᴍ ʟɪɴᴋ - <a href='https://t.me/ContentmebkpBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ╰─➩ ᴅᴏʙ - Nhi Bataunga
 ╰─➩ ʟᴇᴠᴇʟ - 2nd year (Bsc Student)
@@ -781,11 +781,11 @@ Example:
 👮🏻 /delall - ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• BKP sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs..
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ BKP ʙᴏᴛs..
 """
 
     BASIC_TXT = """
@@ -811,11 +811,11 @@ Example:
 
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• BKP sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs..
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ BKP ʙᴏᴛs..
 """
 
     EXPERT_TXT = """
@@ -831,11 +831,11 @@ Example:
  ➻ /imagine : ᴄʀᴇᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇs
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• BKP sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs..
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ BKP ʙᴏᴛs..
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
@@ -855,7 +855,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - brhama0@axl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>brhama0@axl</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/ac6cdb4911cc9b6214e34.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -872,7 +872,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>brhama0@axl</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/ac6cdb4911cc9b6214e34.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -973,7 +973,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @ContentmebkpBot</code>
+💵 ᴜᴘɪ ɪᴅ - <code>brhama0@axl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -995,7 +995,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - brhama0@axl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>brhama0@axl</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/ac6cdb4911cc9b6214e34.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
